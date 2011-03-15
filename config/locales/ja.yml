@@ -14,7 +14,6 @@ ja:
   label_match_select: "フィールドとカラムを対応付けてください"
   label_toplines: "%{original_filename} ファイルを全件表示:"
   message_missing_imported_file: "アップロードされたファイルが見つかりません。"
-  button_submit: "登録"
 
   # result view
   label_import_result: "登録結果"

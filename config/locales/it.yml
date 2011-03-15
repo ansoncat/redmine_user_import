@@ -15,7 +15,6 @@ it:
   label_match_select: "Selezionare il campo corrispondente"
   label_toplines: "Visualizza tutte le righe di %{original_filename}:"
   message_missing_imported_file: "File da importare mancante"
-  button_submit: "Invia"
 
   # result view
   label_import_result: "Risultato dell'importazione"

@@ -14,7 +14,6 @@ en:
   label_match_select: "Select match field"
   label_toplines: "Display all lines of %{original_filename}:"
   message_missing_imported_file: "Missing imported file"
-  button_submit: "Submit"
 
   # result view
   label_import_result: "Import Result"

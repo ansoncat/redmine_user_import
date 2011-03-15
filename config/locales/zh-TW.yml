@@ -14,7 +14,6 @@ zh-TW:
   label_match_select: "選擇匹配的欄位"
   label_toplines: "顯示 %{original_filename} 中所有的內容:"
   message_missing_imported_file: "找不到帳戶匯入檔案。"
-  button_submit: "匯入"
 
   # result view
   label_import_result: "匯入結果"
