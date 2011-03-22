@@ -11,7 +11,7 @@ Locale files contributed by:
   Italian: Andrea Menchetti
   Traditional chinese (Taiwan): ansoncat (Anson Chen)
   Simplified chinese          : ansoncat (Anson Chen)
+  Polish: kardasa
 
   Thank you very much!!
 
-Thanks!
